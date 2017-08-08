@@ -1,5 +1,5 @@
 {
-  "name": "docker-kafka",
+  "name": "@containership/containership.marketplace.kafka",
   "private": true,
   "description": "Docker image designed to run a kafka cluster on ContainerShip",
   "main": "kafka.js",
